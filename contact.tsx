@@ -30,7 +30,7 @@ export function Contact() {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Address</h4>
                   <p className="text-muted-foreground">
-                    Sector 3, Hiran Magri<br />
+                    Sector 3, Hiran Magri,Near BSNL Road<br />
                     Udaipur, Rajasthan 313001<br />
                     India
                   </p>
@@ -43,7 +43,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Phone</h4>
-                  <p className="text-muted-foreground">+91 98765 43210</p>
+                  <p className="text-muted-foreground">+91 9509263147</p>
                 </div>
               </div>
 
@@ -54,8 +54,8 @@ export function Contact() {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Store Hours</h4>
                   <p className="text-muted-foreground">
-                    Monday - Saturday: 10:00 AM - 8:00 PM<br />
-                    Sunday: 11:00 AM - 6:00 PM
+                    Monday - Saturday: 11:30 AM - 9:00 PM<br />
+                    Sunday: 11:30 AM - 9:00 PM
                   </p>
                 </div>
               </div>
